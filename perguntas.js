@@ -1,17 +1,17 @@
 criaCartao(
-   1. 'O que significa equilibrar produção e meio ambiente no agronegócio?'.
+   '1. O que significa equilibrar produção e meio ambiente no agronegócio?',
    'Significa produzir mais e com mais qualidade utilizando técnicas que não esgotem os recursos naturais, garantindo a preservação a longo prazo',
 )
 
 criaCartao(
     '2. O que é a agricultura sustentável e qual a sua importância?',
-    'É um modelo de produção focado em atender às necessidades alimentares atuais sem comprometer a capacidade das futuras gerações. Ela é vital para manter a fertilidade do solo e evitar a degradação ambiental.','
+    'É um modelo de produção focado em atender às necessidades alimentares atuais sem comprometer a capacidade das futuras gerações. Ela é vital para manter a fertilidade do solo e evitar a degradação ambiental.',
 )
 
 criaCartao(
     
     '3. Como a tecnologia ajuda nesse equilíbrio?',
-    'Por meio da agricultura de precisão, que inclui o uso de drones, sensores e inteligência artificial. Isso permite aplicar água e defensivos apenas onde e quando necessário, reduzindo desperdícios.'.'
+    'Por meio da agricultura de precisão, que inclui o uso de drones, sensores e inteligência artificial. Isso permite aplicar água e defensivos apenas onde e quando necessário, reduzindo desperdícios.',
 )
 
 criaCartao(
@@ -36,7 +36,7 @@ criaCartao(
 
 criaCartao(
    '8. Por que proteger a biodiversidade dentro das fazendas é um bom negócio?',
-   'Áreas preservadas, como as reservas legais, abrigam polinizadores (como abelhas) e predadores naturais de pragas, o que favorece diretamente a produtividade das lavouras.','
+   'Áreas preservadas, como as reservas legais, abrigam polinizadores (como abelhas) e predadores naturais de pragas, o que favorece diretamente a produtividade das lavouras.',
 )
 
 criaCartao(
@@ -48,13 +48,14 @@ criaCartao(
 criaCartao(
     '10. Como o mercado internacional enxerga o agro sustentável?',
     'Mercados exigentes (como a União Europeia) valorizam e até exigem produtos com certificações ambientais. A sustentabilidade é um diferencial competitivo forte.',
+)
 
 criaCartao(
     '11. Qual a importância das energias renováveis na agropecuária?',
-    'O uso de energia solar e a transformação de resíduos animais em biogás tornam as propriedades rurais autossustentáveis e reduzem significativamente a pegada de carbono.','
+    'O uso de energia solar e a transformação de resíduos animais em biogás tornam as propriedades rurais autossustentáveis e reduzem significativamente a pegada de carbono.',
 )
 
 criaCartao(
    '12. O que é o Manejo Integrado de Pragas (MIP)?',
-   'É uma estratégia que monitora a lavoura e utiliza métodos biológicos (como insetos que se alimentam de pragas) e culturais antes de recorrer ao controle químico.'.'
+   'É uma estratégia que monitora a lavoura e utiliza métodos biológicos (como insetos que se alimentam de pragas) e culturais antes de recorrer ao controle químico.',
 )
